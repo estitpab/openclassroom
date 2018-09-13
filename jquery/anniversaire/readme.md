@@ -1,0 +1,3 @@
+Pour réaliser l'animation j'ai souhaiter n'utiliser qu'un seul élément cliquable afin d'alléger le code, c'est pour celà que j'ai créé la classe ".surprise" qui génère l'animation de tous les boutons.
+
+Pour la gestion des animations en css j'ai préféré appeler des classes prédéfinies en CSS plutôt que de mettre du code css dans le fichier js afin de garder une cohérence dans la typologie des fichiers.
